@@ -1,3 +1,3 @@
 # codingbat-solutions-ruby
 
-Solutions to problems on [CodingBat](https://codingbat.com/python) written in ruby
+Solutions to problems on [CodingBat](http://codingbat.com/python) written in ruby
