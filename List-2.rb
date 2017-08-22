@@ -1,7 +1,8 @@
 #list-2
 def has22(arr)
     str = arr.join
-    return str.scan(/(?=22)/).count <= 1
+    answer = str.scan(/(?=22)/).count <= 1
+    answer
 end
 
 def sum67(arr)
@@ -15,7 +16,7 @@ def sum67(arr)
         if int ==7
             ignore = false
         end}
-    puts sum
+    sum
 end
 
 def sum13(arr)
