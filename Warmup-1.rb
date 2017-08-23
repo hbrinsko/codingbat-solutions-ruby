@@ -1,3 +1,5 @@
+#Simple warmup problems to get started, no loops 
+
 def sleep_in(weekday, vacation)
     vacation == true || weekday == false ? true : false
 end

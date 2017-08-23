@@ -1,3 +1,5 @@
+#Basic string problems -- no loops
+
 def hello_name(str)
     "Hello " << str << "!"
 end

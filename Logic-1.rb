@@ -1,3 +1,5 @@
+#Basic boolean logic puzzles -- if else and or not
+
 def cigar_party(cigars, is_weekend)
     is_weekend ? cigars >= 40 : cigars >= 40 && cigars <= 60
 end

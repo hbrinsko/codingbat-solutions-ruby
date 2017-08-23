@@ -1,3 +1,5 @@
+##Basic array problems -- no loops
+
 def first_last6(nums)
     nums[0] == 6 || nums[-1] ==6
 end

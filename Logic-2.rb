@@ -1,3 +1,4 @@
+#Medium boolean logic puzzles -- if else and or not
 def make_bricks(small, big, goal)
     if goal > big * 5 + small
         false

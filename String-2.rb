@@ -1,4 +1,4 @@
-#string-2
+#Medium string problems -- 1 loop
 def doublechar(str)
     answer = ""
     arr = str.split("")

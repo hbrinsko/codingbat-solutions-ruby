@@ -1,3 +1,5 @@
+#Medium warmup string/list problems with loops 
+
 def string_times(str, n)
     str*n
 end

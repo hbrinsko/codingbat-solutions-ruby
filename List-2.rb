@@ -1,4 +1,4 @@
-#list-2
+#Medium array problems -- 1 loop
 def has22(arr)
     str = arr.join
     answer = str.scan(/(?=22)/).count <= 1
