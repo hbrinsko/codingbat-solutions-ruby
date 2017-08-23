@@ -64,5 +64,3 @@ def make_chocolate(small, big, goal)
     end
     goal <= 5 * big + small ? goal - 5 * big : -1
 end
-    
-puts make_chocolate(4,1,7)
